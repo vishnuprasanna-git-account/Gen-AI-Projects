@@ -1,0 +1,7 @@
+langchain-community
+pydantic
+langgraph
+Pillow
+langchain_core
+langchain-ollama
+streamlit
