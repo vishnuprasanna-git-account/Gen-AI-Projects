@@ -1,0 +1,8 @@
+langchain-ollama
+langchain-core
+gradio
+langchain-community
+pypdf
+langchain-chroma
+langsmith
+dotenv
